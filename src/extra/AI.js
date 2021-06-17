@@ -98,7 +98,8 @@ const tankSolver = (arr) => {
     ans.sort(compare)
     borderAssociatedTiles.sort(compare)
     var borderNums = []
-    borderNums.push(ans[0].borderNum)
+    if(ans.length > 0)
+        borderNums.push(ans[0].borderNum)
     for(let i=0; i<ans.length-1; i++){
         if(ans[i].borderNum != ans[i+1].borderNum){
             borderNums.push(ans[i+1].borderNum)
