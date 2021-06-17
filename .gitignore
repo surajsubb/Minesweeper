@@ -1,4 +1,5 @@
 node_modules/
+minesweeper.apk
 .expo/
 npm-debug.*
 *.jks
