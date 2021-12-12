@@ -7,7 +7,7 @@ A minesweeper game made using React Native with an AI to help.
 
 1. Default Beginner, Intermediate and Expert Grid sizes.
 2. Able to change the amount of time in takes to place a flag.
-3. AI feature to help user to know which squares are safe and which have mines. Its an written in JavaScript 
+3. AI feature to help user to know which squares are safe and which have mines written in JavaScript 
 
 ## Home Screen
 <img src="/assets/HomeScreen.jpg" alt="drawing" width="200"/>
