@@ -13,6 +13,8 @@ A minesweeper game made using React Native.
 
 ![AI](https://drive.google.com/file/d/1Z7mV6xKb576Jd7X2TCgfni1n68X1LSRe/view) -->
 
-![Home Screen](/assets/HomeScreen.jpg "Home Screen")
+<img src="/assets/HomeScreen.jpg" alt="drawing" width="200"/>
 
-![AI](/assets/AIScreen.jpg "AI")
+<!-- ![Home Screen](/assets/HomeScreen.jpg "Home Screen") -->
+
+<!-- ![AI](/assets/AIScreen.jpg "AI") -->
